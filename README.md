@@ -1,1 +1,2 @@
 # Hello friends, this is my github for my presentation on crytocurrencies and their energy consumption. More specifically an overview of how the proof of stake model works and its biggest disadvantage (in my opinion) of requiring a lot of computational power which leads to insane energy consumption (bitcoin alone consumes more energy than finland anually!). I also discuss the proof of stake model as an alternative!
+https://www.youtube.com/watch?v=NBxuWiaoWiU
